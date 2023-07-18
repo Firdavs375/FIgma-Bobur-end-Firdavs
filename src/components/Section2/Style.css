@@ -39,6 +39,7 @@ section {
     background: #FFF;
     box-shadow: 0px 0px 3px 0px rgba(50, 87, 164, 0.25) inset;
     position: relative;
+    margin-top: 50px;
 }
 
 .CardsS2 img{
