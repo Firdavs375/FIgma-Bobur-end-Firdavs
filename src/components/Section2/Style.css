@@ -53,6 +53,10 @@ section {
     transform: scale(1.03);
 }
 
+.IconTextDiv2N img{
+    cursor: pointer;
+}
+
 .TextDivS2 {
     padding: 23px;
 }
