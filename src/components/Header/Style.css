@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+}
+
+.container1H {
+    width: 1200px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+.Header {
+    background: #F7F9FB;
+    padding: 40px;
+}
+
+.CardImg {
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 45px;
+    padding: 41px 32px 0px 75px;
+}
+
+.TextHeader {
+    margin-top: 29px;
+    color: #111;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.TextHeader2 {
+    margin-top: 11px;
+    color: #111;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.5px;
+}
+
+.CardImg {
+    box-shadow: 0px 0px 100px 0px #6d99f85b;
+}
+
+.Btn1H {
+    border: 0;
+    padding: 15px 37px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #3257A4 45%, #868ee6 55%, #3257A4 65%);
+    color: #EBF4FC;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.BtnBoxH {
+    margin-top: 39px;
+    display: flex;
+    gap: 18px;
+}
+
+.BoxIcon {
+    display: flex;
+    gap: 13px;
+}
+
+.ImgHeaderDiv img {
+    cursor: pointer;
+}
+
+.TextHeader {
+    color: #111;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.TextHeader2 {
+    color: #111;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.BoxIcon img {
+    cursor: pointer;
+}

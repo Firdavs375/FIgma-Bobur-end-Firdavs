@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+}
+
+.container3S {
+    width: 1200px;
+    margin: auto;
+}
+
+section {
+    background: #F7F9FB;
+    padding-top: 64px;
+}
+
+.Heddig1S2 {
+    color: #3257A4;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.BtnDivCard2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 18px;
+
+}
+
+.CardsS2 {
+    width: 285px;
+    border-radius: 15px;
+    border: 0.2px solid #EFF5FE;
+    background: #FFF;
+    box-shadow: 0px 0px 3px 0px rgba(50, 87, 164, 0.25) inset;
+    position: relative;
+}
+
+.CardsS2 img{
+    border-radius: 15px 15px 0 0;
+}
+
+.TextDivS2 {
+    padding: 23px;
+}
+
+.nomer {
+    color: #355CAC;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Text2S2 {
+    color: #111;
+    font-size: 12.9px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.3;
+    text-transform: capitalize;
+    margin-top: 8px;
+}
+
+.Price {
+    color: #C41C1B;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 12px;
+}
+
+.btn1S2 {
+    background: #497AE2;
+    border: 0;
+    padding: 8px 21px;
+    border-radius: 5px;
+    color: #EBF4FC;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.btn1S2:nth-child(2){
+    background: transparent;
+    border: 1px solid #497AE2;
+    color: #3257A4;
+    padding: 8px 34px;
+}
+
+.CardDivBig2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.StarDivS2{
+    display: flex;
+    gap: 2px;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 12px;
+}
+
+.TextDivS2{
+    height: 170px;
+}

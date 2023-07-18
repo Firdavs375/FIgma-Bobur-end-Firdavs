@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container1N {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.CatalogEndIconDiv {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.Inpm1N {
+    width: 100%;
+    border: 0;
+}
+
+.PoiskDiv {
+    width: 290px;
+    display: flex;
+    gap: 10px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 0px 3px 0px rgba(50, 87, 164, 0.25) inset;
+    padding: 10px 17px;
+    align-items: center;
+}
+
+.TextK {
+    color: #111;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Inpm1N::placeholder {
+    color: #111;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Inpm1N {
+    margin-top: 2px;
+}
+
+.ZvanokDiv {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.hr1N {
+    width: 100%;
+    margin-top: -8px;
+    border-top: 1.5px solid #3257A4;
+}
+
+.Text2N {
+    color: #3257A4;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Nomer {
+    color: #111;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.IconsDivN {
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.IconsDivN img:hover {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px #3256a4a5;
+    transform: scale(1.2);
+}
+
+.LogoDiv img {
+    cursor: pointer;
+}
+
+.CatalogEndIconDiv img {
+    cursor: pointer;
+}
+
+.PoiskDiv img {
+    cursor: pointer;
+}
+
+.ZvanokDiv img {
+    cursor: pointer;
+}
+
+.ListItems {
+    display: flex;
+    gap: 28px;
+    color: #111;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    align-items: end;
+    margin-top: 26px;
+}
+
+.IconDiv2N {
+    display: flex;
+    gap: 31px;
+    align-items: center;
+}
+
+.IconTextDiv2N {
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.IconTextDiv2N:nth-child(2){
+    margin-top: 1.5px;
+}
+
+.container1N {
+    margin-top: 20px;
+}
+
+.text2N {
+    color: #111;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+nav{
+    padding-bottom: 16px;
+}
